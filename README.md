@@ -20,7 +20,7 @@ The key improvements include:
 - JavaScript
 
 ## How to Run the Project
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/zeinawady/Blog-Code-Refactoring.git
   
