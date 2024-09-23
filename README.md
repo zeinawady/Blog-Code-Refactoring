@@ -12,7 +12,7 @@ The key improvements include:
   
 - **Additions and Enhancement**: Added a "scroll to top" button that appears when scrolling and implemented a responsive navigation menu.
 
-- 
+  
 ## Technologies Used
 - HTML5
 - CSS
